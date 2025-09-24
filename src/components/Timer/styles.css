@@ -1,0 +1,55 @@
+.tempo-container {
+  text-align: center;
+  margin-top: 20px;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* título */
+.tempo-titulo {
+  font-size: 28px;
+  font-weight: 700;
+  color: #fdf2f8; /* rosa bem claro para contraste */
+  margin-bottom: 20px;
+  font-family: 'Playfair Display', serif;
+}
+
+/* cronômetro */
+.tempo-digital {
+  font-size: 26px;
+  font-weight: 600;
+  color: #fff; /* branco para contraste */
+  display: inline-block;
+  padding: 12px 24px;
+  border-radius: 10px;
+  margin-bottom: 35px;
+  letter-spacing: 1px;
+  text-shadow: 0 0 8px rgba(255, 255, 255, 0.3); /* leve brilho */
+}
+
+/* card do texto (sem fundo) */
+.aniversario-texto {
+  max-width: 750px;
+  margin: 0 auto;
+  text-align: justify;
+  color: #f3e8ff; /* lilás bem claro */
+  font-size: 18px;
+  font-family: 'Poppins', sans-serif;
+  line-height: 1.8;
+}
+
+.aniversario-texto h3 {
+  color: #fff;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 26px;
+  font-weight: 700;
+  text-shadow: 0 0 6px rgba(255, 255, 255, 0.3);
+}
+
+.aniversario-texto h4 {
+  margin-top: 25px;
+  color: #fdf2f8;
+  font-weight: bold;
+  text-align: center;
+  font-size: 20px;
+}
